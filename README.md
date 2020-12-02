@@ -1,0 +1,1 @@
+# irecheck_qtrobot_addons
